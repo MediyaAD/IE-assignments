@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl" align="right">
 
 # تمرین Git — مهندسی اینترنت (پاییز ۱۴۰۵)
 
